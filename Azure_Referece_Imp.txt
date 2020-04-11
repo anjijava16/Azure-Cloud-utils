@@ -1,0 +1,76 @@
+																                                              Azure SQL data base 
+
+Files Delay Data(CSV)
+                                                   Azure Data Factory ---> Blob Storage ---> Databricks(Spark SQL)
+												   
+Real Time data (Hisorical Airport data)
+                                                                            |
+                                                                                           |
+																						   
+																						    Azure ML 
+																							
+																							
+																	
+
+https://github.com/microsoft/MCW-Big-data-and-visualization/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20Big%20data%20and%20visualization.md
+																	
+																							
+Spark SQL 
+
+ADL Gen2 BlOB storage ( Version 2) 2 Peta Bytes 
+
+
+Azure Data Factory ---> BlobStorage ---> Databricks ---> Azure SQL ---> Visulae Delay Predicatis On A MAP 	
+
+
+
+Azure Data Factory ---> BlobStorage ---> Databricks ---> Azure SQL ---> Azure ML ---> Contained AL Services 
+
+
+aks.ms/bd-hol
+
+
+odl_user_140058@cloudlabsaioutlook.onmicrosoft.com
+gttu33KES*Eh
+
+
+
+mmtechkbgen22345
+
+
+storageaccount --->> 
+http://aks.ms/bd-hol-step-by-step
+
+
+
+Storage account name:
+bigdatastore140058
+
+spark.hadoop.fs.azure.account.key.mmtechbigdata.blob.core.windows.net S7mFJ4YD7UruiqcyIPFqPiFJqz3RGZlH9hmu4m9SKZT8PYwcokhucFkf8kA8Iq1LkERVnimpPT5kg7Mo3qLyog==
+
+spark.hadoop.fs.azure.account.key.bigdatalabstore.blob.core.windows.net HD+91Y77b+TezEu1lh9QXXU2Va6Cjg9bu0RRpb/KtBj8lWQa6jwyA0OGTDmSNVFr8iSlkytIFONEHLdl67Fgxg==
+
+Access Key:
+Wgff+GXHUuiyky4TDHJjGinIW7l9ifI6znRJFGTyfAPTbqO3n85cCCdp764JbpL0G1tCeg1g7oD+HX817Cv1Vw==
+
+DefaultEndpointsProtocol=https;AccountName=bigdatastore140058;AccountKey=Wgff+GXHUuiyky4TDHJjGinIW7l9ifI6znRJFGTyfAPTbqO3n85cCCdp764JbpL0G1tCeg1g7oD+HX817Cv1Vw==;EndpointSuffix=core.windows.net
+
+
+
+flightweatherwithairportcode_csv to flight_weather_with_airport_code
+flightdelayswithairportcodes_csv to flight_delays_with_airport_codes
+airportcodelocationlookupclean_csv to airport_code_location_lookup_clean
+
+
+integrationRuntime1
+IR@59a18580-c53e-4c53-a489-42ce3d87b691@BigDataLabFactory140058@eu2@LawsVqMvx9ufB4+NPs2OIwyE5CpE0zeee8vufcR2X70=
+
+
+https://manage.cloudlabs.ai//#/odl/976940f5-d925-4fce-859d-1096652f42bf/631cfdc4-bd11-47bc-ab14-1ceab9f1b9cc
+
+https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/e8bfb459-cc60-4e18-bfe3-cca6a9c05b06/resourceGroups/hands-on-lab-140058/providers/Microsoft.Databricks/workspaces/BigDataLab140058/overview
+
+
+
+Documenation :
+https://docs.microsoft.com/en-us/azure/azure-databricks/

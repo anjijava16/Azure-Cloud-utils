@@ -1,0 +1,63 @@
+
+Access KEY
+Secury KEY 
+
+dev.azure.com
+https://dev.azure.com/anjaiahspr/anjaiahspr
+
+SAS Token :
+Connection String :
+ 
+ Azure :
+1. HDInsight
+2.	Storage  Accounts: 
+   BLOB: Any thing we can storage 
+	  S3://BUUCKET_NAME
+	  wasbs://Contaniner_NAME@StorgeACCOUNT/
+   ADL (Azure Data Lake Services):
+	 asfs://ROOTFolder
+3.	DataFactory
+      
+4. SQL Database : Select MYSQL, Postgress 
+
+5. SQL Server : Select MYSQL
+
+6. CosoDB :(Multi Model Geophical DB : MONGO DB,Cassandra,,Gremlin Graph ,CORE SQL 
+
+7. Key Vault(Password Storage) 
+
+8. 
+
+RDBMS ===> Azure ??
+i.  Databricks ==> Write into Azure BLOB or ADL 
+ii. DataFactory ==> Copy AZ ==> 
+ 
+ 
+9. Event Hub (Kafka) 
+
+10. Logic APPS : 
+  https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
+  
+11. Stream Analayitcs
+     Real Time analtyics 
+
+   Event Hub ==> Stream Analytics===> Power BI && Tablue 
+   Kinesis ==> Kineiss Analaytics ===> S3 or RedShift or 
+  
+  Browser or MOBILE API ==> Movie ==> >>==>>Microservice Spring ===>> Java Kafka Producer/ Spring Producer /Python Producer / ===>  Kafka Server     Web 
+  Java Consuemr / Spring Cosumer / Spark Streaming Consumer / Spark Strcutred Consuemr/ Flink Consumer ===> CosoDB or Cassarad or 
+ 
+12. Databricks
+
+
+13 .Power Shell 
+
+
+14 .Azure Dev OPS
+        azure repo 
+		
+Queue ?
+ 
+  
+  
+
