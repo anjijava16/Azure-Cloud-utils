@@ -1,13 +1,13 @@
 
 What can Azure do for a Data Engineer?
 -------------------
-1 . Azure Storage
-2 . Azure Data Lake Storage
-3 . Azure Databricks
-4 . Azure Cosmos DB
-5 . Azure SQL Database
-6 . Azure Synapse Analytics
-7 . Azure Stream Analytics
+1. Azure Storage
+2. Azure Data Lake Storage
+3. Azure Databricks
+4. Azure Cosmos DB
+5. Azure SQL Database
+6. Azure Synapse Analytics
+7. Azure Stream Analytics
 
 
 
