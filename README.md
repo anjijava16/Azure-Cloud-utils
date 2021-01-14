@@ -4,6 +4,7 @@
 
 # Certifications Links:
 1. https://github.com/anjijava16/Azure-Certification-DP-200
+2. https://www.udemy.com/course/microsoft-azure-database-and-analytics/
 
 # CosmosDB
   Azure Cosmos DB supports many APIs, such as 
