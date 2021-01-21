@@ -25,75 +25,100 @@
      https://github.com/microsoft/hyperspace
       An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads.
 
+Implementing-an-Azure-Data-Solution:
+----------------------  
+	https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution
+
+Designing-an-Azure-Data-Solution:
+---------------------
+	https://github.com/MicrosoftLearning/DP-201-Designing-an-Azure-Data-Solution
+	
 
 1. You can do free labs on microsoft learn for handon 
+------------
 	https://docs.microsoft.com/en-us/learn/
 2. Core principles for creating architectures
+------------
 	https://docs.microsoft.com/en-us/learn/modules/pillars-of-a-great-azure-architecture/
 3.  Big data architectures (imp): Understand why, when and differences 
+------------
 		https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
 		https://www.blue-granite.com/blog/a-different-way-to-process-data-kappa-architecture
 4. Describe Lambda architectures from a Batch Mode Perspective
+------------
 		https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/batch-processing
 		https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/batch-processing
 		https://docs.microsoft.com/en-us/azure/cosmos-db/lambda-architecture
 
 4. Design an Enterprise BI solution in Azure
+------------
 	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/enterprise-bi-sqldw
 	https://azure.microsoft.com/en-in/blog/technical-reference-implementation-for-enterprise-bi-and-reporting/
 5. Automate enterprise BI solutions in Azure
+------------
 	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/enterprise-bi-adf
 6. Architect an Enterprise-grade conversational bot in Azure (understand data/storage requirements)
+------------
 	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
 7. Lambda architectures for a Real-Time Mode Perspective
+------------
 	https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/real-time-processing
 8.  Architect a stream processing pipeline with Azure Stream Analytics
+------------
 	https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-solution-patterns
 	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-stream-analytics
 	https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/stream-processing
 9.	Design a stream processing pipeline with Azure Databricks
+------------
 	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/data/stream-processing-databricks
 10.  Security Design Considerations
+------------
 	https://docs.microsoft.com/en-us/learn/modules/design-for-security-in-azure/
 11. Designing distributed tables in Azure SQL Data Warehouse
+------------
 	https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-tables-distribute
 	https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-best-practices
 12. Horizontal, vertical, and functional data partitioning
+------------
 	https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning
 13. Azure Cosmos DB: Designing your data structure
+------------
 	https://social.technet.microsoft.com/wiki/contents/articles/39421.azure-cosmos-db-designing-your-data-structure.aspx
 14. Azure Example Scenarios
+------------
 		https://docs.microsoft.com/en-us/azure/architecture/example-scenario/#data-scenarios
 15. Datasize organizing in one folder
+------------
 	https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-performance-tuning-guidance
 	https://azure.microsoft.com/en-in/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/
 	https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-tables-temporary
 16. Transparent data encryption or always encrypted
+------------
 		https://azure.microsoft.com/en-in/blog/transparent-data-encryption-or-always-encrypted/
 17. SQL database auditing
+------------
 	https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auditing
 	https://docs.microsoft.com/en-us/sql/relational-databases/security/auditing/sql-server-audit-database-engine?view=sql-server-2017
 18. Azure SQL Database security capabilities
+------------
 		https://docs.microsoft.com/en-us/azure/sql-database/sql-database-security-overview
 19. Data Compression
+------------
 	https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-memory-optimizations-for-columnstore-compression
 	https://blogs.msdn.microsoft.com/sqldw/2016/05/05/the-effects-of-column-level-compression/
 	
-	
-Microsoft is really cool in providing quality content for learning
-** I will share links for hands on labs as well, if you do hands on then DP-200 & DP-201 both are easy-peasy to crack.
--------------------------------------------------------------
-Official Microsoft labs on DP-200 for anyone to learn from:   https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution 
-Azure free account:https://azure.microsoft.com/en-us/free/
+1. Azure free account:https://azure.microsoft.com/en-us/free/
+------------
 Microsoft Learn: https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=data-engineer (Free hands-on-lab environments)
 ----------------------------------------------------------------
-Scope: 
-Working with Data Storage
-Choose a data storage approach in Azure https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-comparison
-Introducing Azure Storage (Just know it exists)
+1. Working with Data Storage Choose a data storage approach in Azure
+------------
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-comparison
+2. Introducing Azure Storage (Just know it exists)
+------------
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview
-Introduction to Data Lake Storage
-Create an Azure Data Lake Storage Gen2
+Introduction to Data Lake Storage & Create an Azure Data Lake Storage Gen2
+------------
 https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
 https://www.blue-granite.com/blog/10-things-to-know-about-azure-data-lake-storage-gen2 (Good Article)
 Enabling Team Based Data Science with Azure Databricks
