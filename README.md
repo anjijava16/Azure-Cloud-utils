@@ -1,10 +1,13 @@
-# azure_cloud_utils
 
- https://docs.microsoft.com/en-us/azure/
+
+# azure_cloud_utils
+   https://docs.microsoft.com/en-us/azure/
 
 # Certifications Links:
 1. https://github.com/anjijava16/Azure-Certification-DP-200
 2. https://www.udemy.com/course/microsoft-azure-database-and-analytics/
+3. https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs
+
 
 # CosmosDB
   Azure Cosmos DB supports many APIs, such as 
