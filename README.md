@@ -8,6 +8,8 @@
 2. https://www.udemy.com/course/microsoft-azure-database-and-analytics/
 3. https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals/tree/master/Instructions/Walkthroughs
 
+# Azure Data Storage:
+1. https://knowledge-junction.com/2020/12/03/microsoft-azure-storage-and-database-part-1-overview/
 
 # CosmosDB
   Azure Cosmos DB supports many APIs, such as 
