@@ -1,5 +1,4 @@
 
-
 # azure_cloud_utils
    https://docs.microsoft.com/en-us/azure/
 
@@ -26,18 +25,14 @@
 # Synapse (Data Cloud Anlaytics)
  https://github.com/Azure-Samples/Synapse/tree/master/Notebooks/PySpark/Synapse%20Link%20for%20Cosmos%20DB%20samples
  
- #  Hyperspace http://aka.ms/hellohyperspace
+#  Hyperspace http://aka.ms/hellohyperspace
      https://github.com/microsoft/hyperspace
       An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads.
 
-Implementing-an-Azure-Data-Solution:
-------------------
-
+# Implementing-an-Azure-Data-Solution:
 1.	https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution
 
-Designing-an-Azure-Data-Solution:
-------------------
-
+# Designing-an-Azure-Data-Solution:
 1.		https://github.com/MicrosoftLearning/DP-201-Designing-an-Azure-Data-Solution
 	
 
